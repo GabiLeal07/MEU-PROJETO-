@@ -1,0 +1,66 @@
+h1 {
+    color: black;
+    background-color: grey;
+}
+
+
+.Inicio{
+    background-color: #30434F;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+    border : 1px solid black;
+    outline-style: double;
+}
+
+.Info {
+    background-color: #65CFBF;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+    border : 1px solid black;
+    outline-style: double;
+}
+
+.Empate{
+    background-color: #30434F;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+    border : 1px solid black;
+    outline-style: double;
+}
+
+.Gremio {
+    background-color: #04629C;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+    border : 1px solid black;
+    outline-style: double;
+}
+
+.Flamengo {
+    background-color: #FF0000;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+    border : 1px solid black;
+    outline-style: double;
+}
+
+.Final {
+    background-color: #30434F;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+    border : 1px solid black;
+    outline-style: double;
+}
+
